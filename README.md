@@ -1,1 +1,1 @@
-# privcy-work-calendar
+# privacy-work-calendar
